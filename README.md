@@ -17,14 +17,23 @@ This repository contains my solutions to the Problem Set 2019 for the module Pro
 ## What each file contains ?
 
 1.This program calculates the sum of all the numbers between zero and a number entered by a user. The file include code and comments. The name of the file is solution-1.py.
+
 2.This program returns an output weather the day of the week begins/not with a letter T. The file inclide code and comments. The name of the file is solution-2.py.
+
 3.This program prints out all the numbers which are divisible by 6 but not by 12 in a specific range. The file include code and comments. The name of the file is solution-3.py.
+
 4.This program is about collatz conjencture in mathematics. Collatz conjencture otputs the successive value of the operation, where value is even, it divides it by 2 and if it is odd it multiply it by 3 and add 1. The program ends if the value reaches one. The file include code and comments.the name of the file is solution-4.py.
+
 5.This program checks if the number entered by the user is prime or not.The prime number is a natural number greater than 1, which is divisible by one and itself. This file include code and comments. The name of the file is solution-5.py.
+
 6. This file include code and comments. The name of the file is solution-6.py.
+
 7. This file include code and comments. The name of the file is solution-7.py.
+
 8. This file include code and comments. The name of the file is solution-8.py.
+
 9. This file include code and comments. The name of the file is solution-9.py.
+
 10. This file include code and comments. The name of the file is solution-10.py.
 
 
