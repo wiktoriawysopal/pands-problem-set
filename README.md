@@ -1,6 +1,6 @@
 # Problem set solution
 
-this repository contains my solutions to the Problem Set 2019 for the module Programming and Scripting of Higher Diploma in Data Analytics at GMIT.
+This repository contains my solutions to the Problem Set 2019 for the module Programming and Scripting of Higher Diploma in Data Analytics at GMIT.
 [See the link for the instructions] (https://github.com/wiktoriawysopal/pands-problem-set/blob/master/problems.pdf)
 
 
@@ -54,4 +54,4 @@ References, adapted from:
 
 ## Extra information
 
-The problem-set consists of 10 different problems, however I was able to complete only 5 out of 10 by the 31/03/2019 (deadline). This was my first expericence with programming and I overestimated my abilities to fullfill the assignment on time. During the whole process the invalid syntax error appeared all the time. I treid to change indentation or capitalize first letter but it did not work. Sometimes the first valuable eg ''n'' was underlined and no matter the changes it stayed the same. Therefore for some solutions the content of the code may be correct however it cannot be executed in the terminal. 
+The problem-set consists of 10 different problems, however I was able to complete only 5 out of 10 by the 31/03/2019 (deadline). This was my first expericence with programming and I overestimated my abilities to fullfill the assignment on time. During the whole process the invalid syntax error appeared all the time. I treid to change indentation or capitalize first letter but it did not work. Sometimes the first valuable eg ''n'' was underlined and no matter the changes it stayed the same. Therefore for some solutions the content of the code may be correct however it cannot be executed in the terminal. I will continue work on this problems sets, after the deadline as I can see the progress in my work.
