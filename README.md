@@ -68,6 +68,8 @@ References, adapted from:
 
 # Probelm 6
 # Problem 7
+#http://interactivepython.org/runestone/static/CS152f17/MoreAboutIteration/Newton'sMethod.html
+#https://tour.golang.org/flowcontrol/8
 # Probelm 8
 # Probelm 9
 # Probelm 10
